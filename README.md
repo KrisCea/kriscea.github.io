@@ -1,1 +1,1 @@
-# kriscea.github.io
+npx @tailwindcss/cli -i ./src/styles.css -o ./assets/css/style.css --watch
