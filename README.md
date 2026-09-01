@@ -1,1 +1,1 @@
-npx @tailwindcss/cli -i ./src/styles.css -o ./assets/css/style.css --watch
+***Portafolio Cristobal Cea***
